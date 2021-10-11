@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Amrit Anand](https://github.com/thelastpawn009)
+- Place: Jharkhand,India
+- Bio: Coding by. 
+- GitHub: [Amrit Anand](https://github.com/thelastpawn009)
