@@ -1627,4 +1627,4 @@ Noida
 #### Name: [Amrit Anand](https://github.com/thelastpawn009)
 - Place: Jharkhand,India
 - Bio: Coding by. 
-- GitHub: [Amrit Anand](https://github.com/thelastpawn009)
+- GitHub: [thelastpawn009](https://github.com/thelastpawn009)
